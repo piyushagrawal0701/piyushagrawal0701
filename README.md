@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Agrawal</h1>
-<br/> <br/> 
+<br/>
 <h3 align="center">A passionate frontend developer from India with 1+ year of experience in web development and worked with 3+ startups and successfully completed 10+ projects.</h3>
 
 - 🔭 I’m currently working on [Sathi Sewa Foundation](https://sathisewa.netlify.app/)
