@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Piyush Agrawal</h1>
 <br/>
-<h3 align="center">A passionate frontend developer from India with 1+ year of experience in web development and worked with 3+ startups and successfully completed 10+ projects.</h3>
+<h3 align="center">A passionate Web developer from India with 2+ year of experience in web development and in graphics designing and worked with 4+ startups and successfully completed 5+ clients projects.</h3>
 
-- 🔭 I’m currently working on [Sathi Sewa Foundation](https://sathisewa.netlify.app/)
+- 🔭 I’m currently working on [City Connect](https://cityconnect7.netlify.app/)
 
 - 🌱 I’m currently learning **Backend technologies such as MongoDB, Node.js, and Express.js.**
 
 - 👨‍💻 All of my projects are available at [https://piyushportfolio7.netlify.com](https://piyushportfolio7.netlify.com)
 
-- 💬 Ask me about **Html, Css, Javascript, Bootstrap, Tailwind css, tailblocks, React js, Git & Github, Flowbite, Firebase and some animation libraries**
+- 💬 Ask me about **Html, Css, Javascript, Bootstrap, Tailwind css, tailblocks, React js, Git & Github, Flowbite, Mongo db, Node js, Express js, Firebase and some animation libraries**
 
 - 📫 How to reach me **Call me at - [8839170393](tel:8839170393) , Email me at - agrawal777piyush@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UEXaNJZVF8u4w2IGxN_eLF50znA-f1jd/view?usp=sharing](https://drive.google.com/file/d/1UEXaNJZVF8u4w2IGxN_eLF50znA-f1jd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AlVHd-OotgAtq2smgfveWw7WgetpyjOb/view?usp=sharing](https://drive.google.com/file/d/1AlVHd-OotgAtq2smgfveWw7WgetpyjOb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
